@@ -8,8 +8,6 @@ Me gusta aprender cada día y poder poner en práctica esos conocimientos. Mi su
 
 ## Tecnologías
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-![AUR Version](https://img.shields.io/aur/version/:packageName)
-
 
 <!--
 **francomg99/francomg99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
