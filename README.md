@@ -19,34 +19,34 @@ Me gusta aprender cada día y poder poner en práctica esos conocimientos. Mi su
 [![Hermes](https://img.shields.io/badge/HERMES-%23D1181E?style=for-the-badge&logo=hetzner&labelColor=101010)]()
 [![Linkedin](https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&labelColor=101010)]()
 
-## Mis proyectos
+# Mis proyectos
 
-### Caché Bistro
+## Caché Bistro
 
 ![https://cache-bistro.reflex.run](./cache.png)
 
 Reserva y conoce todo acerca del Restaurante N°1 de la Ciudad de Mendoza, Argentina -> https://cache-bistro.reflex.run
 
-### Hermes Dev
+## Hermes Dev
 
 ![https://hermes.reflex.run](./hermes_page.png)
 
 Revisa todos los trabajos de Hermes Dev y ponte en contacto ante cualquier duda -> https://hermes.reflex.run
 
-### Jacaranda Coffee
+## Jacaranda Coffee
 
 ![https://jacaranda-coffee.reflex.run](./jacaranda.png)
 
 Página realizada con fines de aprendizaje, podes consultarla en https://jacaranda-coffee.reflex.run
 
-## Contacto
+# Contacto
 
 [![Mail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&labelColor=white&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%3Fcompose%3DCllgCKHRtgQwSnjwwPCwbnZvQnfzXGFplcwVmqFpfmjhBlPdtMTTgfsMhkBNrWltKhHbtqPhzsq
 )]()
 [![What's App](https://img.shields.io/badge/What's%20App-%2325D366?style=for-the-badge&logo=whatsapp&labelColor=white&link=https%3A%2F%2Fwa.me%2F%2B34625779836
 )]()
 
-### Gracias por ver este repositorio, espero tener novedades tuyas proximamente. 😊
+## Gracias por ver este repositorio, espero tener novedades tuyas proximamente. 😊
 
 <!--
 **francomg99/francomg99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
