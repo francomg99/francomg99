@@ -44,8 +44,7 @@ Página realizada con fines de aprendizaje, podes consultarla en https://jacaran
 [![Mail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&labelColor=white&cacheSeconds=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%3Fcompose%3DCllgCKHRtgQwSnjwwPCwbnZvQnfzXGFplcwVmqFpfmjhBlPdtMTTgfsMhkBNrWltKhHbtqPhzsq
 )]()
 </br>
-[![What's App](https://img.shields.io/badge/What's%20App-%2325D366?style=for-the-badge&logo=whatsapp&labelColor=white&cacheSeconds=https%3A%2F%2Fwa.me%2F%2B34625779836
-)]()
+[![What's App](https://img.shields.io/badge/What's%20App-%2325D366?style=for-the-badge&logo=whatsapp&labelColor=white)(https://wa.me/+34625779836)]()
 
 ## Gracias por ver este repositorio, espero tener novedades tuyas proximamente. 😊
 
