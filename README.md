@@ -23,19 +23,19 @@ Me gusta aprender cada día y poder poner en práctica esos conocimientos. Mi su
 
 ### Caché Bistro
 
-[![https://github.com/francomg99]()](https://raw.githubusercontent.com/francomg99/francomg99/main/cache.png)
+[![https://github.com/francomg99]()](https://raw.githubusercontent.com/francomg99/francomg99/master/cache.png)
 
 Reserva y conoce todo acerca del Restaurante N°1 de la Ciudad de Mendoza, Argentina -> https://cache-bistro.reflex.run
 
 ### Hermes Dev
 
-[![https://github.com/francomg99]()](https://raw.githubusercontent.com/francomg99/francomg99/main/hermes_page.png)
+[![https://github.com/francomg99]()](https://raw.githubusercontent.com/francomg99/francomg99/master/hermes_page.png)
 
 Revisa todos los trabajos de Hermes Dev y ponte en contacto ante cualquier duda -> https://hermes.reflex.run
 
 ### Jacaranda Coffee
 
-[![https://github.com/francomg99]()](https://raw.githubusercontent.com/francomg99/francomg99/main/jacaranda.png)
+[![https://github.com/francomg99]()](https://raw.githubusercontent.com/francomg99/francomg99/master/jacaranda.png)
 
 Página realizada con fines de aprendizaje, podes consultarla en https://jacaranda-coffee.reflex.run
 
