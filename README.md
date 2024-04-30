@@ -1,5 +1,5 @@
 # Hola a todos, mi nombre es Franco Martínez 👋
-### Desarrollador web y programador con Python
+## Desarrollador web y programador con Python
 
 ![https://github.com/francomg99](https://raw.githubusercontent.com/francomg99/francomg99/master/hermes_web.png)
 
@@ -18,6 +18,31 @@ Me gusta aprender cada día y poder poner en práctica esos conocimientos. Mi su
 [![Git - Hub](https://img.shields.io/badge/GIT--HUB-%23181717?style=for-the-badge&logo=github&labelColor=101010)]()
 [![Hermes](https://img.shields.io/badge/HERMES-%23D1181E?style=for-the-badge&logo=hetzner&labelColor=101010)]()
 [![Linkedin](https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&labelColor=101010)]()
+
+## Mis proyectos
+
+### Caché Bistro
+
+[![https://github.com/francomg99]()](https://github.com/francomg99/francomg99/blob/main/cache.png)
+
+Reserva y conoce todo acerca del Restaurante N°1 de la Ciudad de Mendoza, Argentina -> https://cache-bistro.reflex.run
+
+### Hermes Dev
+
+[![https://github.com/francomg99]()](https://github.com/francomg99/francomg99/blob/main/hermes_page.png)
+
+Revisa todos los trabajos de Hermes Dev y ponte en contacto ante cualquier duda -> https://hermes.reflex.run
+
+### Jacaranda Coffee
+
+[![https://github.com/francomg99]()](https://github.com/francomg99/francomg99/blob/main/jacaranda.png)
+
+Página realizada con fines de aprendizaje, podes consultarla en https://jacaranda-coffee.reflex.run
+
+## Contacto
+
+[![Mail](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![What's App](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
 <!--
 **francomg99/francomg99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
